@@ -1,0 +1,7 @@
+C:\git\GetEventStoreUtil\GetEventStoreUtil.Lib\bin\Debug\netstandard2.0\GetEventStoreUtil.Lib.deps.json
+C:\git\GetEventStoreUtil\GetEventStoreUtil.Lib\bin\Debug\netstandard2.0\GetEventStoreUtil.Lib.dll
+C:\git\GetEventStoreUtil\GetEventStoreUtil.Lib\bin\Debug\netstandard2.0\GetEventStoreUtil.Lib.pdb
+C:\git\GetEventStoreUtil\GetEventStoreUtil.Lib\obj\Debug\netstandard2.0\GetEventStoreUtil.Lib.AssemblyInfoInputs.cache
+C:\git\GetEventStoreUtil\GetEventStoreUtil.Lib\obj\Debug\netstandard2.0\GetEventStoreUtil.Lib.AssemblyInfo.cs
+C:\git\GetEventStoreUtil\GetEventStoreUtil.Lib\obj\Debug\netstandard2.0\GetEventStoreUtil.Lib.dll
+C:\git\GetEventStoreUtil\GetEventStoreUtil.Lib\obj\Debug\netstandard2.0\GetEventStoreUtil.Lib.pdb
